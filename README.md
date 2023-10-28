@@ -17,7 +17,7 @@ The focus of this project is to build a Node.js command-line application that ta
 * [Questions](#questions)
 
 ## Installation
-Insert "npm i" in the terminal to install all necessary packages.
+Insert "npm init -y" in the terminal to install 'package.json' and then "npm i" to install all dependincies.
 
 ## Walkthrough Video
 
