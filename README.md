@@ -19,6 +19,7 @@ The focus of this project is to build a Node.js command-line application that ta
 Insert "npm init -y" in the terminal to install 'package.json' and then "npm i" to install all dependincies.
 
 ## Walkthrough Video
+https://drive.google.com/file/d/1YG8YHuqWvNjhyQ2TWAnFHx9T0kvajCy-/view
 
 ## Credits
 Created by Jandrei Timoteo with the help of Tutor Matthew Calimbas.
