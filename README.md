@@ -8,7 +8,6 @@ The focus of this project is to build a Node.js command-line application that ta
 * HTML
 * CSS
 * Node.js
-* Express.js
 
 ## Table of Contents
 * [Installation](#installation)

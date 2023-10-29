@@ -49,7 +49,8 @@ function init() {
           </svg>`
         }).then(response => {
             console.log(response)
-            fs.writeFileSync('logo.svg', response)
+            fs.writeFileSync('examples/logo.svg', response)
+            console.log('Success! Your file is located in the examples directory!'); 
         })
 }
 
